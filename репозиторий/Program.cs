@@ -1,4 +1,3 @@
-﻿//Console.WriteLine("Hello, World!");
 namespace HelloWorld
 {
     class Hello
